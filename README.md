@@ -1,6 +1,7 @@
 # DJPY
 
-Fork of omriharel's deej: An Arduino project for controlling audio volume for separate Windows processes using physical sliders (like a DJ!)
+
+Fork of omriharel's [deej](https://github.com/omriharel/deej): An Arduino project for controlling audio volume for separate Windows processes using physical sliders (like a DJ!)
 
 **But now it's back in Python!** *Cue Applause*
 
