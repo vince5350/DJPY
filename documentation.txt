@@ -1,0 +1,3 @@
+Deej: https://github.com/omriharel/deej/tree/legacy-python
+
+Tkinter: https://tkdocs.com/tutorial/morewidgets.html https://tkdocs.com/tutorial/widgets.html#checkbutton

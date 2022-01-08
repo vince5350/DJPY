@@ -1,0 +1,16 @@
+# process names are case-insensitive
+# you can use 'master' to indicate the master channel, or a list of process names to create a group
+slider_mapping:
+  0: master
+  1: opera.exe
+  2: discord.exe
+  3: deej.upmapped
+  4: mic
+
+# recommend to leave this setting at its default value
+process_refresh_frequency: 5
+
+# settings for connecting to the arduino board
+# Shouldn't be needed now, thanks to TKinter
+# com_port: COM4
+# baud_rate: 9600
